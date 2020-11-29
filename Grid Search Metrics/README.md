@@ -4,4 +4,4 @@ This folder's content is made of results and codes for tests whose objective was
 <br>
 Results reveal that both ROC-AUC and average precision score lead to very similar hyper-parameter choices, for both learning methods used. However, one should pay attention whenever a small dataset is at hand, or, more generally, whenever a hard classification task is to be performed, since this may imply different results for ROC-AUC and average precision score. In these circumstances, it could be appropriate to run two sets of grid searches, one constructed upon ROC-AUC and the other using average precision score. Then, test set performance metrics should be compared to suggest a final hyper-parameter choice.
 <br>
-This folder has the following components: codes (Python scripts) of model estimations for implementing experiments, and a pair of Jupyter notebook and html file with results and discussion.
+This folder has the following components: codes (Python scripts) of model estimations for implementing experiments, and a pair of Jupyter notebook and html files with results and discussion.
