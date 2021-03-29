@@ -5,3 +5,5 @@ This folder brings results and codes from tests conducted with the goal of asses
 As discussed in the file "Tests over GBM Hyper-parameters", these tests do not aim to put a final word on how to define GBM hyper-parameters for any supervised learning task. Instead, they help understanding how main hyper-parameters may affect predictive accuracy, and consequently may contribute defining appropriate values for data science tests in which performance metrics are not expected to be the best possible.
 <br>
 In addition to that file (Jupyter notebook and html extensions) with results presentation and discussion, this folder contains all codes used for model estimation.
+<br>
+**Note:** this inquirement does not consider the application of AutoML techniques. Even so, it is not contradictory with automated methods for model selection and hyper-parameters definition, since it may guide the specification of range of values for hyper-parameters of GBM. A robust machine learning system, though, should define its hyper-parameters preferably through automated methods.
