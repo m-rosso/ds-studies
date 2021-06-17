@@ -1,0 +1,3 @@
+## XGBoost tutorial
+
+The objective of this project is to understand and implement **XGBoost library for developing boosted models**, which may be either composed of an ensemble of linear models or an ensemble of trees. All main pieces of code present here were extracted from [XGBoost official documentation](https://xgboost.readthedocs.io/en/latest/index.html). Notebook "XGBoost Estimation" develops boosted models for a binary classification task, presenting codes supporting basic train-test estimation with and without early stopping, K-folds cross-validation and grid/random search from [validation API](https://github.com/m-rosso/validation) present in this same Github.
