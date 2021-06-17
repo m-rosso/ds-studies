@@ -1,0 +1,3 @@
+## LightGBM tutorial
+
+This project aims to explore some main functionalities of LightGBM library for estimating GBMs in such a way that efficient and high-performance models come up based on functions and classes whose synthax is somewhat different from traditional sci-kit learn. All codes for model estimation follow from [LightGBM documentation](https://lightgbm.readthedocs.io/en/latest/index.html). Notebook "LightGBM Estimation" develops boosted models for a binary classification task, presenting codes supporting basic train-test estimation with and without early stopping, K-folds cross-validation and grid/random search from [validation API](https://github.com/m-rosso/validation) present in this same Github.
