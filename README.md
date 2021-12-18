@@ -10,3 +10,4 @@ Each folder in this repository applies for a specific study. All of them, howeve
 5. XGBoost tutorial.
 6. Interpretable Machine Learning.
 7. Tree-based algorithms.
+8. Implementation of linear regression models.
