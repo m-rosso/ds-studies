@@ -1,7 +1,7 @@
 # Data science studies
 This repository contains main conclusions and files used when performing some data science tests whose aim was to support projects in which I have participated througout the years. These projects, in their turn, are private, and thus can not be published here for confidentiality reasons.
 
-Each folder in this repository applies for a specific study. All of them, however, are similar in their nature: they helped me understand some issues concerning predictive performance metrics, hyper-parameters specification, and so on. Maybe the most relevant folders are those that guide the implementation of LightGBM and XGBoost libraries for developing boosted models, besides of tutorials for implementing different methods of interpretable machine learning. A folder with notebooks with different implementations of tree-based algorithms (decision trees, random forests and boosted trees) from scratch helped me understand the structure, construction and functioning of these fundamental methods. In addition to that, other notebooks present implementations of linear regression models and support vector methods.
+Each folder in this repository applies for a specific study. All of them, however, are similar in their nature: they helped me understand some issues concerning predictive performance metrics, hyper-parameters specification, and so on. Maybe the most relevant folders are those that guide the implementation of LightGBM and XGBoost libraries for developing boosted models, besides of tutorials for implementing different methods of interpretable machine learning. A folder with notebooks with different implementations of tree-based algorithms (decision trees, random forests and boosted trees) from scratch helped me understand the structure, construction and functioning of these fundamental methods. In addition to that, other notebooks present implementations of linear regression models, support vector methods and logistic regression.
 
 1. Peformance metrics for classification tasks.
 2. GBM hyper-parameters.
@@ -12,3 +12,4 @@ Each folder in this repository applies for a specific study. All of them, howeve
 7. Tree-based algorithms.
 8. Implementation of linear regression models.
 9. Implementation of SVMs.
+10. Implementation of logistic regression.
