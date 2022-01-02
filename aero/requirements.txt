@@ -1,0 +1,9 @@
+pandas==1.2.4
+numpy==1.19.5
+scipy==1.6.3
+sklearn==0.24.2
+re==2.2.1
+progressbar==2.5
+lightgbm==3.2.1
+xgboost==1.4.2
+plotly==4.6.0
